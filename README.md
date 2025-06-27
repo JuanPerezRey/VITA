@@ -1,6 +1,6 @@
 # VITA
 
-#SPANISH
+# SPANISH
 Se trata de un asistente virtual que utiliza una página HTML local para su interfaz de usuario y, además, emplea las API de Gemini y OpenWeatherMap.
 
 Se desarrolló empleando los lenguajes de programación Python, HTML, CSS y JavaScript. También utiliza el framework Flask y JSON para las traducciones al español e inglés.
@@ -13,7 +13,7 @@ Capaz de proporcionar información sobre el clima, la temperatura y las previsio
 
 Fue realizado como proyecto final para programacion y como reto para aprender. Se encuentra en un estado basico debido a la falta de tiempo para implementar mejoras o caracteristicas que le faltaban.
 
-#ENGLISH
+# ENGLISH
 It is a virtual assistant that uses a local HTML page for its user interface and also uses the Gemini and OpenWeatherMap APIs.
 
 It was developed using Python, HTML, CSS and JavaScript programming languages. It also uses the Flask framework and JSON for English and Spanish translations.
@@ -26,9 +26,9 @@ Able to provide information about the weather, temperature and weather forecasts
 
 It was made as a final project for programming and as a challenge to learn. It is in a basic state due to lack of time to implement improvements or missing features.
 
-#INSTALACIÓN / INSTALLATION
+# INSTALACIÓN / INSTALLATION
 
-#Spanish
+# Spanish
 Descargue el archivo RAR y, a continuación, descomprima su contenido.
 Utiliza Visual Studio Code u otras herramientas para abrir la carpeta VITA o IA.
 Si lo deseas, puedes abrir el entorno virtual ya implementado en la carpeta.
@@ -39,7 +39,7 @@ El asistente virtual ya se encuentra activado y puedes abrirlo haciendo uso de l
 
 Si quieres desactivarlo, presiona la combinación de teclas CTRL + C en la terminal.
 
-#English
+# English
 Download the RAR file, then unzip its contents.
 Use Visual Studio Code or other tools to open the VITA or IA folder.
 If you wish, you can open the virtual environment already deployed in the folder.
